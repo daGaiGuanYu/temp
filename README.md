@@ -1,9 +1,9 @@
 https://stackoverflow.com/questions/71985560/what-should-i-do-if-the-node-version-is-different-when-developing-vscode-plugin
 
-Plugin runs in vscode's node runtime.
-But I develop plugin in another node runtime.
-And some dependencies has different release version(built version?) on different node runtime(e.g. better-sqlite3).
-So there will be error like:
+Plugin runs in vscode's node runtime.  
+But I develop plugin in another node runtime.  
+And some dependencies has different release version(built version?) on different node runtime(e.g. better-sqlite3).  
+So there will be error like:  
 
 ```
 ...\node_modules\better-sqlite3\build\Release\better_sqlite3.node
