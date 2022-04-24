@@ -13,8 +13,8 @@ NODE_MODULE_VERSION 101.
 How can I do.
 ```
 
-my node version: v16.14.0  
-my vscode version: 1.66.2  
+my **node version: v16.14.0**  
+my **vscode version: 1.66.2**  
 my system: win10  
 
 ![error in vscode](https://raw.githubusercontent.com/daGaiGuanYu/temp/vscode20220424/err_in_vscode.png)
