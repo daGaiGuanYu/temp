@@ -1,0 +1,30 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daGaiGuanYu/temp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daGaiGuanYu/temp/issues"
+  },
+  "homepage": "https://github.com/daGaiGuanYu/temp#readme",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^22.0.2",
+    "@rollup/plugin-json": "^4.1.0",
+    "@rollup/plugin-node-resolve": "^14.1.0",
+    "rollup": "^2.79.0"
+  },
+  "dependencies": {
+    "knex": "^2.3.0",
+    "mysql2": "^2.3.3"
+  }
+}
